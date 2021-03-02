@@ -1,2 +1,2 @@
 # Godot-projects
-Godot project with godot 3.2.4 rc2
+Godot project with godot 3.2.4 rc3
